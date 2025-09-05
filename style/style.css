@@ -130,3 +130,8 @@ tooltip label{
     color: #1d7715;
     border-left: 0px;
 }
+
+#custom-light_dark {
+    padding-left: 0px;
+    padding-right: 15px;
+}
