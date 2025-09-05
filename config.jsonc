@@ -7,7 +7,7 @@
     "gtk-layer-shell": true,
     "height": 50,
     "modules-left": ["custom/launch_wofi","wlr/workspaces","cpu","memory","disk","hyprland/window"],
-    "modules-center": ["custom/updates","clock"],
+    "modules-center": ["clock", "custom/updates"],
     "modules-right": ["temperature","custom/power_profile","battery","backlight","pulseaudio","pulseaudio#microphone","tray","custom/light_dark"],
     
     "hyprland/window": {

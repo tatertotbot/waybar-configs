@@ -91,7 +91,6 @@ tooltip label{
     color: #e92d4d;
 }
 
-
 #workspaces {
     padding-right: 0px;
     padding-left: 5px;
@@ -103,7 +102,7 @@ tooltip label{
     border-right: 0px;
 }
 
-#window, #clock {
+#window, #clock, #custom-updates {
     border-radius: 10px;
     margin-left: 20px;
     margin-right: 20px;
